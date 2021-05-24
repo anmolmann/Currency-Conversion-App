@@ -19,7 +19,6 @@ Some important things to consider are:
 
 <div align = "center" style="display: flex;">
 <img src="./imgs/MobileView.PNG" style="flex: 33.33%;padding: 5px;">
-<img src="./imgs/PC_View.PNG" style="flex: 33.33%;padding: 5px;">
 </div>
 
 
