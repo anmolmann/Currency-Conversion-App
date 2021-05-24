@@ -18,8 +18,8 @@ Some important things to consider are:
 4.	UI/UX
 
 <div align = "center">
-<img src="./imgs/MobileView.PNG">
-<img src="./imgs/PC_View.PNG">
+<img src="./imgs/MobileView.PNG" width="50%">
+<img src="./imgs/PC_View.PNG" width="50%">
 </div>
 
 
