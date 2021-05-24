@@ -1,0 +1,50 @@
+:root {
+  --font-family: 'Nunito', sans-serif;
+  --bold: 700;
+  --normal: 400;
+  --light: 200;
+  --color-accent: #0abf53;
+  --color-primary-900: #076f5b;
+  --color-primary-500: #089379;
+  --color-primary-100: #d1fedd;
+  --color-red-500: #ac2b2b;
+  --color-red-100: #ffd5d5;
+  --color-gray-900: #8c94a0;
+  --color-gray-700: #a5afbd;
+  --color-gray-500: #c2c9d3;
+  --color-gray-300: #dce1e7;
+  --color-gray-100: #f3f6f9;
+  --color-white: #fff;
+  --color-black: #00112c;
+  --h1-size: 2rem;
+  --h2-size: 1.6rem;
+  --h3-size: 1.4rem;
+  --h4-size: 1.2rem;
+  --h5-size: 1.1rem;
+  --paragraph: 1rem;
+  --small-paragraph: 0.8rem;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.timestamp {
+  margin: 20%;
+  text-align: center;
+  display: flex;
+  padding: 0 0.5rem;
+  justify-content: center;
+  font-size: var(--small-paragraph);
+  color: var(--color-primary-500);
+}
