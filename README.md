@@ -17,9 +17,9 @@ Some important things to consider are:
       - Axios is promise-based, which gives you the ability to take advantage of JavaScript’s async and await for more readable asynchronous code.
 4.	UI/UX
 
-<div align = "center">
-<img src="./imgs/MobileView.PNG" width="50%">
-<img src="./imgs/PC_View.PNG" width="50%">
+<div align = "center" class="row">
+<img src="./imgs/MobileView.PNG" class="column">
+<img src="./imgs/PC_View.PNG" class="column">
 </div>
 
 
