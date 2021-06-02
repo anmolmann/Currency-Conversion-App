@@ -1,4 +1,4 @@
-# Currency Conversion App
+# Currency Conversion App (Demo)
 
 A JavaScript currency conversion application using React.
 
