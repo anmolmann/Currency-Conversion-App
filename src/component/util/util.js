@@ -6,7 +6,7 @@ class Util {
     }
 
     static getExchangeURI(baseCurrency) {
-        return "https://v6.exchangerate-api.com/v6/95c0426dcce2f3028f6082cd/latest/" + baseCurrency;
+        return "https://v6.exchangerate-api.com/v6/YOUR-API-KEY/latest/" + baseCurrency;
     }
 
     static isNullNoneOrSpacesOnly(value) {
