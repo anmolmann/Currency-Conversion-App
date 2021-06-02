@@ -2,6 +2,8 @@
 
 A JavaScript currency conversion application using React.
 
+>A starter demo app in React.
+
 The user is able to select a source country currency, a destination country currency, and the amount to convert.
 Following APIs were used to complete this task:
 1.	[Rest Countries](https://restcountries.eu/) to retrieve a list of countries.
