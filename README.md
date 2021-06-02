@@ -15,7 +15,6 @@ Some important things to consider are:
 3.	Handling sensitive config like API Keys:
       - Used `Axios`
       - Axios is promise-based, which gives you the ability to take advantage of JavaScript’s async and await for more readable asynchronous code.
-4.	UI/UX
 
 <div align = "center" style="display: flex;">
 <img src="./imgs/MobileView.PNG" style="flex: 33.33%;padding: 5px;">
